@@ -1,4 +1,4 @@
-import '../../../styles/map.css';
+import './map.css';
 import { FaPlus, FaMinus } from "react-icons/fa6";
 import { MdCenterFocusStrong } from "react-icons/md";
 import React from 'react';
